@@ -50,6 +50,5 @@ Here are a few examples of the visualizations created in the notebook:
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/EDA_Lab.git
-   cd EDA_Lab
+   https://github.com/Shruti-193/Data-Analysis/blob/main/README.md
+
