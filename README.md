@@ -44,11 +44,3 @@ Here are a few examples of the visualizations created in the notebook:
 
 ### Line Plot
 ![Screenshot (218)](https://github.com/user-attachments/assets/45ed6a79-12d3-4664-9af6-10899dd83c0c)
-
-
-
-## How to Run
-
-1. Clone the repository:
-   https://github.com/Shruti-193/Data-Analysis/blob/main/README.md
-
