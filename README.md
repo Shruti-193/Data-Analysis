@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) Lab
+# Exploratory Data Analysis 
 
 This project contains a practical example of performing Exploratory Data Analysis (EDA) using Python libraries such as `pandas`, `matplotlib`, and `seaborn`.
 
